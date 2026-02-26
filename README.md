@@ -6,6 +6,11 @@
 <p align="left">
 I’m an Information Science and Engineering student at UVCE, Bangalore, passionate about software development, databases, and computer networks. I work with Node.js and my interest lies in DBMS, Computer Networks, Operating Systems, and Object-Oriented Programming, applying them to build scalable, efficient, and user-friendly applications.<a href="https://byakshith.netlify.app/">learn more</a>
 </p>
+<p align="left">
+  🔗 <a href="https://github.com/akshi8h">GitHub</a> &nbsp; | &nbsp;
+  💼 <a href="https://www.linkedin.com/in/akshith-v-b0144525b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a> &nbsp; | &nbsp;
+  🧩 <a href="https://leetcode.com/u/ntAsNHb1tM/">LeetCode</a>
+</p>
 
 ---
 
