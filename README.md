@@ -32,17 +32,23 @@ I’m an Information Science and Engineering student at UVCE, Bangalore, passion
 
 ## 🚀 Recent Projects
 
-### 💸 Expense Tracker  
-A web-based application to track daily expenses with categories and reports.  
-**Tech:** Python, Flask, MySQL, HTML, CSS  
+### 🤟 Sign Language Recognition System  
+Machine learning–based system for recognizing hand gestures for communication support.
+
+---
+
+### 🅿️ Map It Right – Smart Parking Spot Finder  
+AI-driven smart parking web application for real-time slot detection and booking.
+
+---
 
 ### 🧠 MindfulConnect  
-A mental wellness platform to promote healthy digital habits and emotional well-being.  
-**Tech:** Python, Flask, MySQL  
+Mental health support platform with community interaction and AI-powered chatbot.
 
-### 🤟 Sign Language Recognition  
-A machine learning project to recognize sign language gestures using computer vision.  
-**Tech:** Python, OpenCV, Machine Learning  
+---
+
+### 💸 Expense Tracker  
+Personal finance web app for tracking expenses and generating reports.
 
 ---
 
