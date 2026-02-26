@@ -9,23 +9,38 @@ I’m an Information Science and Engineering student at UVCE, Bangalore, passion
 
 ---
 
-## 🧑‍💻 Technologies I Work With
+## Technological Stack
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB%20(Mongoose)-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Render-0099E5?style=for-the-badge&logo=render&logoColor=white"/>
 </p>
 
 ---
@@ -33,24 +48,38 @@ I’m an Information Science and Engineering student at UVCE, Bangalore, passion
 ## 🚀 Recent Projects
 
 ### 🤟 Sign Language Recognition System  
-Machine learning–based system for recognizing hand gestures for communication support.
+Machine learning–based system to recognize hand gestures and convert them into meaningful outputs for communication assistance.
 
----
 
 ### 🅿️ Map It Right – Smart Parking Spot Finder  
-AI-driven smart parking web application for real-time slot detection and booking.
+AI-powered smart parking web application that helps users find and book nearby parking spaces in real time using computer vision and geolocation.
 
----
+**Highlights:**  
+- Detects parking slot availability using CCTV footage and AI.  
+- Displays real-time availability on an interactive map.  
+- Automates slot allocation and cost calculation.  
+
 
 ### 🧠 MindfulConnect  
-Mental health support platform with community interaction and AI-powered chatbot.
+A mental health support platform that enables users to share emotional struggles, seek community advice, and receive AI-powered responses.
 
----
+**Highlights:**  
+- Community-based Q&A forum for anonymous interaction.  
+- AI chatbot for personalized emotional support.  
+- Wellness hub for guided mental and physical exercises.  
+
+
 
 ### 💸 Expense Tracker  
-Personal finance web app for tracking expenses and generating reports.
+A personal finance web application to track expenses, manage multiple accounts, and generate reports.
+
+**Highlights:**  
+- Secure user authentication and account management.  
+- Category-wise and date-wise expense tracking.  
+- Visual reports using charts with export options.
 
 ---
+
 
 ## 📊 GitHub Stats
 
