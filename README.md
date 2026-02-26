@@ -1,15 +1,24 @@
 <p align="left">
   <img src="https://github.com/user-attachments/assets/48a3bc93-e1d3-4081-b6c5-ff489aa9af28" width="800" />
 </p>
+
 <h2 align="left">Hi, I'm Akshith 👋</h2>
 
 <p align="left">
-I’m an Information Science and Engineering student at UVCE, Bangalore, passionate about software development, databases, and computer networks. I work with Node.js and my interest lies in DBMS, Computer Networks, Operating Systems, and Object-Oriented Programming, applying them to build scalable, efficient, and user-friendly applications.<a href="https://byakshith.netlify.app/">learn more</a>
+I’m an Information Science and Engineering student at UVCE, Bangalore, passionate about software development, databases, and computer networks. I work with Node.js and my interest lies in DBMS, Computer Networks, Operating Systems, and Object-Oriented Programming, applying them to build scalable, efficient, and user-friendly applications.  
+<a href="https://byakshith.netlify.app/">learn more</a>
 </p>
+
 <p align="left">
-  🔗 <a href="https://github.com/akshi8h">GitHub</a> &nbsp; | &nbsp;
-  💼 <a href="https://www.linkedin.com/in/akshith-v-b0144525b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a> &nbsp; | &nbsp;
-  🧩 <a href="https://leetcode.com/u/ntAsNHb1tM/">LeetCode</a>
+  <a href="https://github.com/akshi8h">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/akshith-v-b0144525b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/ntAsNHb1tM/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
 </p>
 
 ---
@@ -53,41 +62,41 @@ I’m an Information Science and Engineering student at UVCE, Bangalore, passion
 ## Recent Projects
 
 ### Sign Language Recognition System  
-
-A real-time American Sign Language (ASL) recognition system that detects hand gestures using a webcam and converts them into readable English text.
-The system uses MediaPipe to extract 21 hand landmark points from each frame and applies multiple machine learning models to classify gestures. Predictions from individual models are combined using an ensemble voting approach to improve accuracy and stability.
-A language model is integrated to refine the output by correcting spelling and forming meaningful words and sentences, making the system practical for real-time communication support.
-
-
-### Map It Right – Smart Parking Spot Finder  
-AI-powered smart parking web application that helps users find and book nearby parking spaces in real time using computer vision and geolocation.
-
-**Highlights:**  
-- Detects parking slot availability using CCTV footage and AI.  
-- Displays real-time availability on an interactive map.  
-- Automates slot allocation and cost calculation.  
-
-
-### MindfulConnect  
-A mental health support platform that enables users to share emotional struggles, seek community advice, and receive AI-powered responses.
-
-**Highlights:**  
-- Community-based Q&A forum for anonymous interaction.  
-- AI chatbot for personalized emotional support.  
-- Wellness hub for guided mental and physical exercises.  
-
-
-
-### Expense Tracker  
-A personal finance web application to track expenses, manage multiple accounts, and generate reports.
-
-**Highlights:**  
-- Secure user authentication and account management.  
-- Category-wise and date-wise expense tracking.  
-- Visual reports using charts with export options.
+A real-time American Sign Language (ASL) recognition system that detects hand gestures using a webcam and converts them into readable English text.  
+The system uses MediaPipe to extract 21 hand landmark points and applies multiple machine learning models with an ensemble voting approach to improve accuracy.  
+A language model refines predictions by correcting spelling and forming meaningful sentences.
 
 ---
 
+### Map It Right – Smart Parking Spot Finder  
+AI-powered smart parking web application to find and book nearby parking spaces using computer vision and geolocation.
+
+**Highlights:**  
+- Detects parking slot availability using CCTV footage and AI  
+- Displays real-time availability on an interactive map  
+- Automates slot allocation and cost calculation  
+
+---
+
+### MindfulConnect  
+A mental health support platform for sharing emotional struggles and receiving AI-powered responses.
+
+**Highlights:**  
+- Anonymous community-based Q&A forum  
+- AI chatbot for emotional support  
+- Wellness hub for guided exercises  
+
+---
+
+### Expense Tracker  
+A personal finance web application for tracking expenses and generating reports.
+
+**Highlights:**  
+- Secure user authentication  
+- Category-wise and date-wise tracking  
+- Visual charts with export options  
+
+---
 
 ## 📊 GitHub Stats
 
