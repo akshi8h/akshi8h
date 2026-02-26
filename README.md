@@ -1,13 +1,10 @@
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/48a3bc93-e1d3-4081-b6c5-ff489aa9af28" width="600" />
+  <img src="https://github.com/user-attachments/assets/48a3bc93-e1d3-4081-b6c5-ff489aa9af28" width="800" />
 </p>
 <h2 align="left">Hi, I'm Akshith 👋</h2>
 
 <p align="left">
-I’m an Information Science and Engineering student at UVCE, Bangalore, passionate about software development, databases, and computer networks. I work with Node.js and my interest lies in DBMS, Computer Networks, Operating Systems, and Object-Oriented Programming, applying them to build scalable, efficient, and user-friendly applications.
-
-I’m eager to continue learning and growing as a backend developer, building APIs and software solutions that have real-world impact.  
-<a href="https://byakshith.netlify.app/">learn more</a>
+I’m an Information Science and Engineering student at UVCE, Bangalore, passionate about software development, databases, and computer networks. I work with Node.js and my interest lies in DBMS, Computer Networks, Operating Systems, and Object-Oriented Programming, applying them to build scalable, efficient, and user-friendly applications.<a href="https://byakshith.netlify.app/">learn more</a>
 </p>
 
 ---
