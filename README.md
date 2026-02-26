@@ -45,13 +45,16 @@ I’m an Information Science and Engineering student at UVCE, Bangalore, passion
 
 ---
 
-## 🚀 Recent Projects
+## Recent Projects
 
-### 🤟 Sign Language Recognition System  
-Machine learning–based system to recognize hand gestures and convert them into meaningful outputs for communication assistance.
+### Sign Language Recognition System  
+
+A real-time American Sign Language (ASL) recognition system that detects hand gestures using a webcam and converts them into readable English text.
+The system uses MediaPipe to extract 21 hand landmark points from each frame and applies multiple machine learning models to classify gestures. Predictions from individual models are combined using an ensemble voting approach to improve accuracy and stability.
+A language model is integrated to refine the output by correcting spelling and forming meaningful words and sentences, making the system practical for real-time communication support.
 
 
-### 🅿️ Map It Right – Smart Parking Spot Finder  
+### Map It Right – Smart Parking Spot Finder  
 AI-powered smart parking web application that helps users find and book nearby parking spaces in real time using computer vision and geolocation.
 
 **Highlights:**  
@@ -60,7 +63,7 @@ AI-powered smart parking web application that helps users find and book nearby p
 - Automates slot allocation and cost calculation.  
 
 
-### 🧠 MindfulConnect  
+### MindfulConnect  
 A mental health support platform that enables users to share emotional struggles, seek community advice, and receive AI-powered responses.
 
 **Highlights:**  
@@ -70,7 +73,7 @@ A mental health support platform that enables users to share emotional struggles
 
 
 
-### 💸 Expense Tracker  
+### Expense Tracker  
 A personal finance web application to track expenses, manage multiple accounts, and generate reports.
 
 **Highlights:**  
