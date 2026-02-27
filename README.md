@@ -65,7 +65,7 @@ I’m a passionate **Full-Stack Developer** and **Problem Solver** from Bangalor
 
 ---
 
-## 📂 Projects
+## 📂 Recent Projects
 
 ### 🖐️ Sign Language Recognition System  
 A real-time American Sign Language (ASL) recognition system that detects hand gestures through a webcam and converts them into readable English text.
