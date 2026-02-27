@@ -103,3 +103,9 @@ A personal finance web application for tracking and managing expenses.
 - Visual analytics with charts and reports  
 
 ---
+
+## 💡 Fun Facts  
+- 🎨 Graphic design and video editing are my creative outlets.  
+- 💪 I’m into cardio workouts to keep a healthy mind and body.  
+
+---
