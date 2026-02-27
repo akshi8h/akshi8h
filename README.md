@@ -2,12 +2,18 @@
   <img src="https://github.com/user-attachments/assets/48a3bc93-e1d3-4081-b6c5-ff489aa9af28" width="800" />
 </p>
 
-<h2 align="left">Hi, I'm Akshith 👋</h2>
+# 👋 Hi, I'm Akshith V!
 
-<p align="left">
-I’m an Information Science and Engineering student at UVCE, Bangalore, passionate about software development, databases, and computer networks. I work with Node.js and my interest lies in DBMS, Computer Networks, Operating Systems, and Object-Oriented Programming, applying them to build scalable, efficient, and user-friendly applications.  
-<a href="https://byakshith.netlify.app/">learn more</a>
-</p>
+## 💻 About Me
+
+I’m a passionate **Full-Stack Developer** and **Problem Solver** from Bangalore, India. Currently pursuing **Information Science and Engineering at UVCE**, I enjoy building web applications and exploring new technologies. I’m particularly interested in **Databases, Computer Networks, Operating Systems, and Object-Oriented Programming**, and I like applying these concepts to build scalable and user-friendly software solutions.  
+[Learn more about me →](https://byakshith.netlify.app/)
+
+- 🔭 **Currently working on**: Sign Language Recognition System  
+- 🌱 **Learning**: Backend Development and System Design  
+- 👯 **Looking to collaborate on**: Web Development and Mental Health–related projects  
+- 📫 **How to reach me**:  
+  - [Email Me](mailto:akki565@gmail.com?subject=Hello%20Akshith&body=I%20wanted%20to%20connect%20with%20you%20regarding...)
 
 <p align="left">
   <a href="https://github.com/akshi8h">
@@ -23,7 +29,7 @@ I’m an Information Science and Engineering student at UVCE, Bangalore, passion
 
 ---
 
-## Technological Stack
+## 🛠️ Technological Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -59,51 +65,41 @@ I’m an Information Science and Engineering student at UVCE, Bangalore, passion
 
 ---
 
-## Recent Projects
+## 📂 Projects
 
-### Sign Language Recognition System  
-A real-time American Sign Language (ASL) recognition system that detects hand gestures using a webcam and converts them into readable English text.  
-The system uses MediaPipe to extract 21 hand landmark points and applies multiple machine learning models with an ensemble voting approach to improve accuracy.  
-A language model refines predictions by correcting spelling and forming meaningful sentences.
+### 🖐️ Sign Language Recognition System  
+A real-time American Sign Language (ASL) recognition system that detects hand gestures through a webcam and converts them into readable English text.
+
+- Uses MediaPipe to extract 21 hand landmark points  
+- Trained with multiple machine learning models  
+- Ensemble voting improves prediction accuracy  
+- Language model refines output into meaningful sentences  
 
 ---
 
-### Map It Right – Smart Parking Spot Finder  
-AI-powered smart parking web application to find and book nearby parking spaces using computer vision and geolocation.
+### 🅿️ Map It Right – Smart Parking Spot Finder  
+An AI-powered smart parking web application that helps users find and book nearby parking spaces.
 
-**Highlights:**  
-- Detects parking slot availability using CCTV footage and AI  
+- Detects parking slot availability using CCTV footage  
 - Displays real-time availability on an interactive map  
 - Automates slot allocation and cost calculation  
 
 ---
 
-### MindfulConnect  
-A mental health support platform for sharing emotional struggles and receiving AI-powered responses.
+### 🧠 MindfulConnect  
+A mental health support platform that allows users to share emotional struggles and receive guidance through AI.
 
-**Highlights:**  
-- Anonymous community-based Q&A forum  
-- AI chatbot for emotional support  
-- Wellness hub for guided exercises  
-
----
-
-### Expense Tracker  
-A personal finance web application for tracking expenses and generating reports.
-
-**Highlights:**  
-- Secure user authentication  
-- Category-wise and date-wise tracking  
-- Visual charts with export options  
+- Anonymous community-based discussion forum  
+- AI chatbot for emotional assistance  
+- Wellness hub with guided exercises  
 
 ---
 
-## 📊 GitHub Stats
+### 💰 Expense Tracker  
+A personal finance web application for tracking and managing expenses.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshi8h&show_icons=true&theme=tokyonight" />
-</p>
+- Secure authentication system  
+- Category-wise expense management  
+- Visual analytics with charts and reports  
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshi8h&theme=tokyonight" />
-</p>
+---
