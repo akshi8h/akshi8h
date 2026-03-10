@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/48a3bc93-e1d3-4081-b6c5-ff489aa9af28" width="800" />
+  <img src="https://github.com/user-attachments/assets/94ec8774-c9d2-4a3e-bb66-8e200a47f60f" width="800" />
 </p>
 
 # 👋 Hi, I'm Akshith V!
